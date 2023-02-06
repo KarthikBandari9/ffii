@@ -3,3 +3,6 @@
 <h5>Instalasi</h5>
 
 <p>Tonton Video Yang Ada <a href="https://youtu.be/FqvwlMuOcvg">Disini</a>
+
+<h5>Screenshot</h5>
+<img src="https://up.onee.eu.org/file/b88FFjxNtYgU.jpg">
