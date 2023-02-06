@@ -2,6 +2,4 @@
 
 <h5>Instalasi</h5>
 
-<p>Kunjungi <a href="https://ngrok.com">ngrok.com</a>
-
-Kalian Login/Daftar
+<p>Tonton Video Yang Ada <a href="https://youtu.be/FqvwlMuOcvg">Disini</a>
