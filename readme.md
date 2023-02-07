@@ -23,9 +23,7 @@
 
 > User, Password Details will shown on RUNNER> build
 ```
-## If Error Showed
 
-```
 <h5>Screenshot</h5>
 <img src="https://api.onee.eu.org/images/Screenshot_1.jpg">
 <img src="https://api.onee.eu.org/images/Screenshot_2.jpg">
